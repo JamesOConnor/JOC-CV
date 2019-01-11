@@ -1,1 +1,1 @@
-![Caption for the picture.](/out/JamesOConnorCV.png)
+![Caption for the picture.](out/JOC_CV.png)
